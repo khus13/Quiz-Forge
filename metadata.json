@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge: AI-Powered STEM Tutor",
+  "description": "Convert engineering and mathematics lecture notes into practice quizzes with step-by-step LaTeX solutions. Supporting UN SDG 4 (Quality Education).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
